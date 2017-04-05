@@ -4,4 +4,4 @@ title: Now
 permalink: /now/
 ---
 
-What I'm doing right now.
+Coming soon…
