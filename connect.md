@@ -4,4 +4,4 @@ title: Connect
 permalink: /connect/
 ---
 
-Coming soon…
+(Under Construction)

@@ -4,4 +4,4 @@ title: Now
 permalink: /now/
 ---
 
-Coming soon…
+(Under Construction)

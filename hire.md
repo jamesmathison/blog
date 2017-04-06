@@ -4,4 +4,4 @@ title: Hire
 permalink: /hire/
 ---
 
-Coming soon…
+(Under Construction)
