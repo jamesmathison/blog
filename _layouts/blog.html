@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Blog Archive</h1>
+  <h1>{{ page.display-title }}</h1>
   
   {{ content }}
 
@@ -23,3 +23,5 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
+
+<!-- Removed  class="page-heading"  from h1  (2017-04-06) -->
