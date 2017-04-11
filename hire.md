@@ -2,9 +2,8 @@
 layout: page
 title: Article Services
 permalink: /hire/
+display-title: Make Your Blog Effortlessly Profitable With A Wordsmith On Your Side
 ---
-
-# Make Your Blog Effortlessly Profitable
 You need a writer with an eye on the numbers. 
 
 Marketers are blogging 800% more than 5 years ago, yet they’re getting 89% less shares! (Source: [AMA](https://www.ama.org/publications/eNewsletters/MarketingInsightsNewsletter/Pages/marketers-blogging-800-percent-more-getting-nearly-100-percent-fewer-shares.aspx))

@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: James Mathison
 email: james.s.mathison@gmail.com
-description: Productivity, copywriting, and the mechanics of spirituality.
+description: Copywriting, meta-learning, and the mechanics of spirituality.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jsmathison
