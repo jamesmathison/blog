@@ -39,3 +39,5 @@ As I've said a few times in this blog, the only lasting way I've found of releas
 There are other conditioning methods you can do, like having pots of money lying around the home, and Dan talks about that. However, such positive programming works best if the new "code" is being written in a fresh, blank "text file".
 
 It's time I start and end each day by measuring my money, and my progress towards specific money goals. And every time I sit down to do it, I'll take a moment to notice the feelings that it triggers, accept them, and let them go.
+
+(Update: [April 17th](http://www.jamesmathison.co.uk/money-ledger-update/))
