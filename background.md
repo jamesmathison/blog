@@ -3,6 +3,7 @@ layout: page
 title: Background
 permalink: /background/
 display-title: Background – From Scientist to Copywriter
+navigation: y
 ---
 
 When I was younger I noticed a certain madness in the world. 
