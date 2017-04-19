@@ -34,7 +34,6 @@ His mind was free from all the trappings of ambition. Without any desire to grow
 >
 >And that's it! That was my mission. I liked it. It was a worthy hobby."
 
-Man…
 
 Imagine if more business were started out with that frame of mind. 
 
@@ -43,7 +42,7 @@ A worthy hobby.
 Built with the sole purpose of helping some group of people. 
 
 
-###It you want to build a startup, begin with this process:
+### It you want to build a startup, begin with this process:
 
 1. Put yourself deep into the minds of the people you would serve.
 2. Ask yourself, "In a perfect world…"
