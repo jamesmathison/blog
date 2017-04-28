@@ -41,7 +41,7 @@ Self-Interest + Curiosity: **HOW A FOOLISH STUNT MADE ME A STAR SALESMAN**
 
 Now, combine News as well to make a kamakazi of appeal: 
 
-Self-Interest + Curiosity + News: **REVEALED: THE SECRET, IDIOTIC MOVE THAT MADE ME A STAR SALESMAN IN A WEEK**
+Self-Interest + Curiosity + News: **REVEALED: THE HIDDEN, IDIOTIC MOVE THAT MADE ME A STAR SALESMAN IN A WEEK**
 
 This last headline is not from the book. It's my own, untested, in-the-moment idea. As such it might fall flat, but probably only on **believability** issues. That can be fixed by softening the language. If only I had a product to test this headline on…
 
