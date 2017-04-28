@@ -7,33 +7,33 @@ tags:
 permalink: /classes-of-headlines/
 ---
 
-*Testing Advertising Methods*, by John Caples, is one of 9 books of essential reading for any copywriter (as claimed by Gary Halbert). 
+*Testing Advertising Methods* by John Caples is one of 9 books of essential reading for any copywriter (as claimed by Gary Halbert). 
 
 I'm halfway through it, and I agree. It's gold.
 
-In it, John spends a lot of time on headlines, introduced at Chapter 2: *The Most Important Part of an Advertisement*.
+In it, John spends a lot of time on headlines. He introduces them at Chapter 2: *The Most Important Part of an Advertisement*.
 
 To make a good headline, start by understanding the three elements that constantly crop up in those that succeed:
 1. Self-interest
 2. News
 3. Curiosity
 
-These elements are in order from most important to least. 
+*(In order from most important to least.)*
 
 In fact, beware of using pure-curiosity headlines. If you do, ensure the *benefit* is clear in some other way, such as the image or the company logo/slogan. 
 
-All things being equal, self-interest beats curiosity.
+&nbsp;
 
-### Example:
+All things being equal, self-interest beats curiosity.
 
 Curiosity: **HERE'S ONE QUESTION YOU SHOULDN'T ASK YOUR WIFE** [ABC Life Insurance Company]
 
 Self-Interest: **YOU CAN LAUGH AT MONEY WORRIES IF YOU FOLLOW THIS SIMPLE PLAN** [ABC Life Insurance Company]
 
+&nbsp;
+
 ## Combine For Added Pulling-Power
 Of course, though self-interest beats curiosity, a self-interest headline that *also* stimulates a little curiosity could do even better. 
-
-## Example:
 
 Self-Interest: **HOW I BECAME A STAR SALESMAN**
 
