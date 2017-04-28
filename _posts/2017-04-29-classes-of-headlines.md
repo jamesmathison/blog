@@ -24,7 +24,7 @@ In fact, beware of using pure-curiosity headlines. If you do, ensure the *benefi
 
 All things being equal, self-interest beats curiosity.
 
-**Example:**
+### Example:
 
 Curiosity: **HERE'S ONE QUESTION YOU SHOULDN'T ASK YOUR WIFE** [ABC Life Insurance Company]
 
@@ -33,7 +33,7 @@ Self-Interest: **YOU CAN LAUGH AT MONEY WORRIES IF YOU FOLLOW THIS SIMPLE PLAN**
 ## Combine For Added Pulling-Power
 Of course, though self-interest beats curiosity, a self-interest headline that *also* stimulates a little curiosity could do even better. 
 
-**Example:**
+## Example:
 
 Self-Interest: **HOW I BECAME A STAR SALESMAN**
 
@@ -41,7 +41,7 @@ Self-Interest + Curiosity: **HOW A FOOLISH STUNT MADE ME A STAR SALESMAN**
 
 Now, combine News as well to make a kamakazi of appeal: 
 
-**REVEALED: THE SECRET, IDIOTIC MOVE THAT MADE ME A STAR SALESMAN IN A WEEK**
+Self-Interest + Curiosity + News: **REVEALED: THE SECRET, IDIOTIC MOVE THAT MADE ME A STAR SALESMAN IN A WEEK**
 
 This last headline is not from the book. It's my own, untested, in-the-moment idea. As such it might fall flat, but probably only on **believability** issues. That can be fixed by softening the language. If only I had a product to test this headline on…
 
