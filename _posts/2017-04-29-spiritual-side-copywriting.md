@@ -24,6 +24,6 @@ For example: My Guilt, though it hurts my sense of self-worth, led to a defensiv
 
 Here's the thing: If I look back to some of the largest (and sometimes ill-informed) purchases I've made, I see how they stimulated that very part of my ego. They knew to trigger my pride (without making me have to admit I had it), while taking enough of the onus off my own ability that my faith in myself was only a minimal barrier. 
 
-It seems too powerful to know this stuff. 
+It seems too powerful to know this stuff. Too easily misused.
 
-Using it ethically is paramount, but that's for another day. For now, just consider spiritual work as an investigation of human nature. *If you side-step the mythology, tribalism, and dogma*, it might help make sense of people strange yet predictable buying behaviour. 
+The ethics are for another day. For now, just consider spiritual work as an investigation of human nature. *If you side-step the mythology, tribalism, and dogma*, it might help make sense of people strange yet predictable buying behaviour. 
