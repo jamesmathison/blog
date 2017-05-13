@@ -13,11 +13,19 @@ In the 600s BC, poet Archilochus  <a href="https://en.wikipedia.org/wiki/Archilo
 
 In <a href="http://www.tropicalmba.com/knotel/" target="_blank">TMBA385: To Headquarter or Not to Headquarter?</a>, interviewee Amol Sarva <a href="http://pca.st/5IGv#t=348" target="_blank">said</a>: 
 
-> "My way of organising the world is there are some people who are foxes and some people who are hedgehogs. Hedgehogs, by inclination, are the type of personality that have one big thing. My own mindset and personality fits into this other category – the fox. The fox is someone who knows many things, moves easily between these many different topics, maybe doesn't end up spending huge amounts of time deep inside one domain, and therefore is somebody that's making connections or finding insights from one place to another and cross pollinating."
+> "My way of organising the world is there are some people who are foxes and some people who are hedgehogs. 
+>
+>"Hedgehogs, by inclination, are the type of personality that have one big thing. My own mindset and personality fits into this other category – the fox. 
+>
+>"The fox is someone who knows many things, moves easily between these many different topics, maybe doesn't end up spending huge amounts of time deep inside one domain, and therefore is somebody that's making connections or finding insights from one place to another and cross pollinating."
 
 It sounds like he's exhorting the fox type, but later he mentions how his "foxy" personality got in the way of his success in the past. A big part of his current success is due to recognising the shortcomings of a fox, and looking for hedgehogs to join him.
 
-> "…[Knotel] feeds my fox-like personality, **but I can't be the hedgehog that the business needs**. One of the first moves I made when I got started was recruiting folks that I thought could be extraordinarily focused, powerful, diligent, hedgehog-style leaders for the company. That's a mistake in the past I've made, I thought I could do it in my own personality, and this time I've tried to assemble a much more mixed, much more diverse, different-skill-type team, and this fox/hedgehog thing is right at the core of it."
+> "…[Knotel] feeds my fox-like personality, **but I can't be the hedgehog that the business needs**. 
+>
+>"One of the first moves I made when I got started was recruiting folks that I thought could be extraordinarily focused, powerful, diligent, hedgehog-style leaders for the company. 
+>
+>"That's a mistake in the past I've made, I thought I could do it in my own personality, and this time I've tried to assemble a much more mixed, much more diverse, different-skill-type team, and this fox/hedgehog thing is right at the core of it."
 
 **I've got a lot of time for anyone this self-aware.**
 
