@@ -13,6 +13,8 @@ The Fizzle show's recent episode, [CEO-ing Your Business: The 3 Metrics that Mat
 
 The framework for Fizzle's top 3 metrics was a funnel, with **Reach** at the top, **Sign Ups** in the middle, and **Lifetime Value** at the bottom. 
 
+&nbsp;
+
 ## 1. Reach
 **Using Reach out of context:** Clickbait…super-enticing headlines (& images) that disappoint because the content behind them doesn't deliver.
 
@@ -24,12 +26,16 @@ Copywriters are not so concerned with traffic, but our work has a lot to do with
 
 You'll need the other metrics to determine if your "reaching copy" is pulling in qualified leads or dead-end viewers. 
 
+&nbsp;
+
 ## 2. Conversions (Sign Ups)
 **Using Conversions out of context:** "Salesiness"… short term sales tactics that coerce or pressure people to convert, but that gives them *big* "buyer's remorse". 
 
 **Using Conversions well:** Qualified (Happy) Customers. Communicate the product's value, address objections, and give people what their "logical" brain needs to justify doing what the "emotional" brain wants – buy. 
 
 Short-term thinking leads to short-term businesses. If you use every "dirty" trick in the book, you *will* get more sales *today*, but the next level – stickiness – will suffer. There are many brands I will never buy from again because I feel even a *little bit* used or manipulated. A business operating that way *can* still work, but they have to work that much harder for every sale as they continue into the future. 
+
+&nbsp;
 
 ## 3. Stickiness (Lifetime Value)
 **Using Stickiness out of context:** Empty Pipeline. If you forget about the first two levels and focus only on customer retention, your "sales pipeline" will run dry, and you'll find yourself in a tricky position. 
@@ -42,9 +48,13 @@ If people you "reached" were delighted by what they found behind your headline, 
 
 Copy that *nurtures* existing customers and occasionally sells them new awesome things is the copy that belongs to the bottom of the funnel, and it has the potential to turn ever customer into 3, 5, 10 more customers over time, and every sale into 3, 5, 10 more sales. 
 
+&nbsp;
+
 ---
 
-## 0. Hours in Training
+&nbsp;
+
+## The Daddy Metric: Hours in Training
 ***This metric should come first.***
 
 *It should **always** come first. Every day* 
