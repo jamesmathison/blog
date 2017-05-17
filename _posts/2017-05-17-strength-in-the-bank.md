@@ -66,7 +66,7 @@ I'm currently spending every morning writing out old sales letters by hand for a
 
 Our brains have a kind of connective tissue as well – known as [neuroglia](https://en.wikipedia.org/wiki/Neuroglia) – cells that support our neurons. Although obviously different to muscular tissues, neuroglia play a huge part in mental strength, and they're also slower to adapt. 
 
-Your neurons keep themselves busy making real-time connections as we navigate the world. Meanwhile, the neuroglia work on strengthening the most important memories and abilities. They need consistent, firm encouragement to invest their resources in any one skill. 
+Your neurons keep themselves busy making real-time connections as we navigate the world. Meanwhile, the neuroglia work on strengthening the most important memories and abilities. **They need consistent, firm encouragement to invest their resources in any one skill**. 
 
 That's why mental skill, like physical strength, takes patience to develop into mastery. 
 
@@ -78,7 +78,8 @@ And don't burn out. Keep some strength in the bank.
 
 &nbsp;
 
-> Slow is smooth and smooth is fast. 
+> "Slow is smooth and smooth is fast." 
+> 
 >  – Old military saying
 
 &nbsp;
