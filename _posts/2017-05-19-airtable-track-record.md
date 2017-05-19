@@ -2,7 +2,7 @@
 layout: post
 title: "How To Turn Your Track Record into a Tangible Asset"
 description: "Never forget what you've done and the results it produced again!"
-date: 2017-05-19 
+date: 2017-05-19
 categories: blog
 tags: organisation
 
@@ -32,7 +32,7 @@ I've tried tracking on spreadsheets, but it was spotty, spread out across multip
 
 Yesterday, however, I finished populating my own Content Asset database on [Airtable](https://airtable.com/invite/r/zgvqbCAu) with every article that I have ever published for myself. 
 
-<img src="../images/airtable-content-asset-database.png/"></img>
+<img src="../images/airtable-content-asset-database.png/"/>
 
 This is a "basic" base. I've only just begun by putting everything in one place (and it feel great!). I could add SEO stats, readership stats, and any other actual **results** that matter to me.
 
