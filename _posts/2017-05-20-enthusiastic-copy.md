@@ -2,9 +2,9 @@
 layout: post
 title: "Write WILD Copy, Then Tame It"
 description: "How to never write bland copy again."
-date: 2017-00-00 
+date: 2017-05-20 
 categories: blog
-tags: 
+tags: copywriting
 
 ---
 
