@@ -78,6 +78,6 @@ Whether a person, a book, or even a single statement, (such as one of Harv's aff
 
 Stay dedicated, 
 
- – James (Self-Made Copywriter)
+ – James ([Self-Made Copywriter](http://www.jamesmathison.co.uk/newsletter/))
 
 
