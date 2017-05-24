@@ -17,7 +17,7 @@ Rites of passage are intrinsic to many traditional cultures. So called "primitiv
 ## Why do men need more help than women? 
 I've heard the theory that females have a rite of passage built into their biology – their first period. 
 
-Or perhaps the danger manhood makes it less appealing than womanhood. As a man, you're expected to use your chest as a pin-cushion for any arrows loosed at your family. The protective role of the Father was replaced in women by their men, but the men had no such replacement. Scary – perhaps enough to put boys off the notion of growing up. 
+Or perhaps the danger of manhood makes it less appealing than womanhood. As a man, you're expected to use your chest as a pin-cushion for any arrows loosed at your family. The protective role of the Father was replaced in women by their men, but the men had no such replacement. Scary – perhaps enough to put boys off the notion of growing up. 
 
 Or perhaps the cynic in you would believe that males are naturally emotionally weaker, or that all past cultures were so patriarchal that they didn't give a damn if their girls grew up right. 
 
