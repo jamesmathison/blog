@@ -8,6 +8,8 @@ tags: fear
 
 ---
 
+<img src="../images/world-stage.jpg">
+
 While addressing a crowd of very forward thinking teachers, Tim Ferriss got the following question: 
 
 > "How do you recommend teachers address students who struggle with competition tasks due to anxiety or learning disabilities?"
