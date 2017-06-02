@@ -42,7 +42,7 @@ And aren't we the same with our PDF downloads?
 
 I'll usually glance at it, and then file it away forever under the category of "might get to one day". 
 
-Most ebooks are not selling pieces, but they should be. All your material should present your audience (of prospects) with an invitation to go deeper into your brand, whether that's to become a customer, or do something smaller. This *does not* mean to hold back all your valuable information behind a pay wall. It *does* mean to surround your valuable information with attractive invitations to take another step. 
+Most ebooks are not selling pieces, but they should be. All your material should present your audience (of prospects) with an invitation to go deeper into your brand, whether that's to become a customer or do something smaller. This *does not* mean to hold back all your valuable information behind a pay wall. It *does* mean to surround your valuable information with attractive invitations to take another step. 
 
 &nbsp;
 
@@ -63,7 +63,7 @@ What if your email optin funnel looked like this:
 	* Infographic
 	* etc
 4. Each one offers specific, actionable steps to overcome a specific problem (small yet significant, for quick-wins). 
-5. Each one, AT A GLANCE makes the your mailing list look like the bees-knees…the dog's bollocks…[the whale's vagina](https://www.youtube.com/watch?v=8AIwaSD9Sco)…for anyone interested in going further. 
+5. Each one, AT A GLANCE makes your mailing list look like the bees-knees…the dog's bollocks…[the whale's vagina](https://www.youtube.com/watch?v=8AIwaSD9Sco)…for anyone interested in going further. 
 
 &nbsp;
 
