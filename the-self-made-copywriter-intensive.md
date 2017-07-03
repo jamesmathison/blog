@@ -3,7 +3,7 @@ layout: page
 title: SMC Intensive
 permalink: /the-self-made-copywriter-intensive/
 display-title: 
-navigation: y
+navigation: 
 ---
 
 <p style="text-align:center;"><b>The Self-Made Copywriter 12-Week Intensive</b></p>
