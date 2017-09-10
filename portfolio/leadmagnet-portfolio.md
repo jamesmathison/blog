@@ -10,7 +10,7 @@ navigation: y
 
 &nbsp;
 
-<img src="mirasee-content-upgrade-cover.png"/>
+<img src="http://www.jamesmathison.co.uk/portfolio/mirasee-content-upgrade-cover.png"/>
 
 &nbsp;
 
@@ -18,7 +18,7 @@ navigation: y
 
 &nbsp;
 
-<img src="oleg-content-upgrade-cover.png"></img>
+<img src="http://www.jamesmathison.co.uk/portfolio/oleg-content-upgrade-cover.png">
 
 &nbsp;
 
