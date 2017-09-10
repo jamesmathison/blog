@@ -3,14 +3,14 @@ layout: page
 title: Lead Magnet Portfolio
 permalink: /leadmagnet-portfolio/
 display-title: Lead Magnet Portfolio
-navigation: y
+navigation: 
 ---
 
 ---
 
 &nbsp;
 
-<img src="http://www.jamesmathison.co.uk/portfolio/mirasee-content-upgrade-cover.png"/>
+<img src="http://www.jamesmathison.co.uk/portfolio/mirasee-content-upgrade-cover.png">
 
 &nbsp;
 
