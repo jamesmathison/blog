@@ -18,7 +18,7 @@ navigation: y
 
 &nbsp;
 
-<img src="/oleg-content-upgrade-cover.png">
+<img src="oleg-content-upgrade-cover.png"></img>
 
 &nbsp;
 
