@@ -10,7 +10,7 @@ navigation: y
 
 &nbsp;
 
-<img src="mirasee-content-upgrade-cover.png">
+<img src="/mirasee-content-upgrade-cover.png">
 
 &nbsp;
 
@@ -18,7 +18,7 @@ navigation: y
 
 &nbsp;
 
-<img src="oleg-content-upgrade-cover.png">
+<img src="/oleg-content-upgrade-cover.png">
 
 &nbsp;
 
