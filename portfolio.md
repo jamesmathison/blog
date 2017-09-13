@@ -30,7 +30,7 @@ Before long I had the sales page for Sam's launch.
 
 After that, Sam brought me on to write the squeeze page and the Deep Dive course upsell. 
 
-You can see the entire funnel by [clicking here](https://fearlessconnection.com). 
+**You can see the start of the funnel by [clicking here](https://fearlessconnection.com).**
 
 &nbsp;
 
