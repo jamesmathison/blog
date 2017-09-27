@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The 80/20 Priorities of Blogging"
+description: "Bloggers applying the 80/20 rule (Pareto Principle) can write less and achieve more. The Pareto Rule can prioritise key activities of bogging success."
 date: 2017-05-12 
 categories: blog
 tags: 
