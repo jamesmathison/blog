@@ -4,15 +4,15 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-family: 'Cormorant Garamond', serif; //removed 05/10/17: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   20px; //removed 05/10/17: 16px
+$base-font-weight: 200; //removed 05/10/17: 400
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #4a4a4a; //removed 05/10/17: #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
