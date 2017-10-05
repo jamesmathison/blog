@@ -9,7 +9,7 @@ tags: copywriting, direct marketing
 ---
 You've read 100 articles on selling online. 
 
-And your sales still SUCK.
+And your sales refuse to improve.
 
 …What do you do? 
 
