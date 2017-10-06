@@ -5,16 +5,22 @@ layout: default
 <div class="home">
 
   <h1>{{ page.display-title }}</h1>
-  
-  {{ content }}
+    <p>I publish regularly to my “inner circle” email column. </p>
 
+    <p>I write about copywriting, list building, and how to get the most out of our own minds. </p>
+
+    <p>Below you can find some choice articles I’ve picked from my archive. If you want more, <a href="http://eepurl.com/c43wr5" target="_blank">sign up here</a>. </p>
+    
+  {{ content }}
+    
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+          <hr color="#d3d3d3">
+          &nbsp;
+<!-- Removed(05/10/17): <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.url | relative_url }}"><b>{{ post.title | escape }}</b></a>
         </h2>
       </li>
     {% endfor %}
