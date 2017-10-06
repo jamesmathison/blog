@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Portfolio
+title: Portfolio.
 permalink: /portfolio/
 display-title: Portfolio
-navigation: y
+navigation: 
 ---
 
 ---
