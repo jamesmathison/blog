@@ -7,7 +7,7 @@ display-title: Services
 navigation: y
 ---
 
-Throughout my career I’ve written sales emails to 1000s-strong email lists, I’ve created full website copy for tech startups, I’ve produced sales pages for life-changing infoproducts, and much more. 
+Throughout my career I’ve written sales emails to email lists with thousands of subscribers, I’ve created full website copy for tech startups, I’ve produced sales pages for life-changing infoproducts, and much more. 
 
 These days, I’m focused on growing the email lists of SaaS companies, which is why I’ve reduced my services to only Article Funnels and Sales Pages
 
@@ -22,5 +22,7 @@ All text is £40 per 500.
 ## Sales Pages
 
 I look at sales page projects on a case-by-case basis, only taking on new projects if it’s a perfect fit for me and I happen to have the time. It’s an especially intensive form of writing, so if you manage to get me on board, I’m all-in until it’s done. 
+
+[Click here to see some examples of past work.](/portfolio) 
 
 Get in touch via the email address in the footer below. 
