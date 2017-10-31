@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: James Mathison
 email: james.s.mathison@gmail.com
-description: Copywriting, meta-learning, and the mechanics of spirituality.
+description: Treat every article like a landing page. Treat every customer like a good friend. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jsmathison
