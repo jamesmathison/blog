@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Articles.
-permalink: /articles/
-display-title: Articles
-navigation: 
+title: Journal.
+permalink: /journal/
+display-title: Journal
+navigation: y
 ---
