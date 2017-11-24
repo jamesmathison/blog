@@ -5,11 +5,17 @@ layout: default
 <div class="home">
 
   <h1>{{ page.display-title }}</h1>
-    <p>I publish regularly to my “inner circle” email column. </p>
+    <p>I publish regularly to my email column. </p>
 
-    <p>I write about copywriting, list building, and how to get the most out of our own minds. </p>
+    <p>I write about copywriting, freelancing, and the mechanics of soul & psyche. </p>
 
-    <p>Below you can find some choice articles I’ve picked from my archive. If you want more, <a href="http://eepurl.com/c43wr5" target="_blank">sign up here</a>. </p>
+    <p>Below is the public archive. To have them sent to your email, <b><a href="http://eepurl.com/c43wr5" target="_blank">sign up here</a>.</b> </p>
+    
+    <p><i>(Sign up above to get my ebook: The Self-Made Copywriter)</i></p>
+    
+    &nbsp;
+    
+    &nbsp;
     
   {{ content }}
     
@@ -18,10 +24,11 @@ layout: default
       <li>
           <hr color="#d3d3d3">
           &nbsp;
-<!-- Removed(05/10/17): <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}"><b>{{ post.title | escape }}</b></a>
         </h2>
+          <!-- <p align="right"><span class="post-meta">{{ post.tags }}</span></p> -->
       </li>
     {% endfor %}
   </ul>
