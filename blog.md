@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Journal.
-permalink: /journal/
+title: Column.
+permalink: /column/
 display-title: Journal
 navigation: y
 ---
