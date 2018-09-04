@@ -5,8 +5,6 @@ summary: I'm back. But for how long? + Akira's new masterpiece.
 date: 2018-09-04
 categories: blog
 tags: 
-image: 
-  feature: 
 permalink: /beginning-or-dead-end/
 comments: true
 
