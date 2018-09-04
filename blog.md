@@ -2,6 +2,6 @@
 layout: blog
 title: Column.
 permalink: /column/
-display-title: Journal
+display-title: Email Column
 navigation: y
 ---
