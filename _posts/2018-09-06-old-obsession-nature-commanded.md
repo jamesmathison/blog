@@ -45,6 +45,7 @@ Turns out, if you are sensitive to Nature's needs, she'll do a lot for you, and 
 - [Turn deserts green again](https://youtu.be/vpTHi7O66pI) by shepherding massive herds of grazers over them! (Wtf?!)
 - [Farm fish in an almost self-raising environment](https://youtu.be/4EUAMe2ixCI). Apparently, the fish taste as good as wild, because they essentially are. 
 - [Grow oranges (among many other things) at alpine altitudes](https://youtu.be/Bw7mQZHfFVE) by creating terraced pools of water each with a large red rock in the middle, heated by the sun and creating a warm micro-climate. 
+
 That's just for starters. 
 
 Then I learned someone had developed a type of building that generated your electricity, treated your water, grew your food, and managed your sewage. **You could live 100% off-grid in luxury** with what he named "[Earthships](https://youtu.be/TlntQ9EgOxg)".
@@ -62,7 +63,7 @@ I tried to learn the Nature of money, but it wasn't enough.
 
 I've never stopped struggling, and not for a lack of skill or even bravery. I simply could not stop self-sabotaging. 
 
-I didn't understand enough of the Nature of myself.
+I did not understand enough *the Nature of myself*.
 
 I'll leave it there for now. I think tomorrow I'll summarise my misadventures in personal development and spirituality. I was blind to the "clog" in my psyche that compelled me to keep miss-firing, but that certainly didn't stop me from trying!
 
