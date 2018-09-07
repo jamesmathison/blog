@@ -65,7 +65,7 @@ I've never stopped struggling, and not for a lack of skill or even bravery. I si
 
 I did not understand enough *the Nature of myself*.
 
-I'll leave it there for now. I think tomorrow I'll summarise my misadventures in personal development and spirituality. I was blind to the "clog" in my psyche that compelled me to keep miss-firing, but that certainly didn't stop me from trying!
+I'll leave it there for now. [Tomorrow](/demons-fairies-failure) I'll summarise my misadventures in personal development and spirituality. I was blind to the "clog" in my psyche that compelled me to keep miss-firing, but that certainly didn't stop me from trying!
 
 Peace!
 
