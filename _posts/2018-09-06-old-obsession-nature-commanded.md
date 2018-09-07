@@ -12,7 +12,8 @@ comments: true
 
 
 > "Nature, to be commanded, must be obeyed."
-  – Francis Bacon (invented the scientific method)
+>
+>  – Francis Bacon (invented the scientific method)
 
 What's better: to complain about your wage, or understand the nature of money with the mind to create a strategy for increasing it?
 
