@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Demons, Fairies, and Failure"
