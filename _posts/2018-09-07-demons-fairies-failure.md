@@ -47,13 +47,15 @@ Yet again, nothing changed in my external life.
 ## Giving Up
 After almost a decade of striving to become the “ideal me” I had fantasised about all along, something switched. 
 
-I gave up. I started drinking alone. I stopped trying to make more money. I stopped trying to meet girls. I stopped trying to stay active or eat well.
+**I gave up.**
+
+I started drinking alone. I stopped trying to make more money. I stopped trying to meet girls. I stopped trying to stay active or eat well.
 
 I stopped trying to be better. 
 
 But the fantasy was still alive. And I’m starting to think it was the fantasy that’s been driving the avoidance and sabotage all this time. 
 
-I know, that’s opposite of what we all hear. "Set big, audacious goals," they say. "Envision your ideal life and work tirelessly towards it," they say. 
+I know, that’s opposite of what we all hear. *"Set big, audacious goals,"* they say. *"Envision your ideal life and work tirelessly towards it,"* they say. 
 
 Sure. I get all that. But there’s something about my relationship with my fantasy that I’m starting to realise was fuelling my demons. 
  
