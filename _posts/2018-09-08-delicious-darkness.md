@@ -94,7 +94,10 @@ Doing things I know I shouldn't (by my own definition) feel more "sad" now, and 
 The Shadow is every bit of your psyche that you deny is there. I think what changed is I finally became conscious of a part of my Shadow that I had been denying all my life. 
 
 I have a YouTuber and Spiderman to thank for finally being able to admit the thing that might have been sabotaging my every move, all my life…
+
 …my inner **narcissism**.
+
+&nbsp;
 
 Laters
 
