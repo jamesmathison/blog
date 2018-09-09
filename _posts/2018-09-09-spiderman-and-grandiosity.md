@@ -5,6 +5,7 @@ description: ""
 date: 2018-09-09
 categories: blog
 tags: 
+permalink: /spiderman-and-grandiosity/
 
 ---
 
