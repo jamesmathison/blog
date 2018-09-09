@@ -9,5 +9,5 @@ permalink: /spiderman-and-grandiosity/
 
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/UD0cNRsJugg?start=488&end=586" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/UD0cNRsJugg?start=416&end=434" frameborder="0"> </iframe>
 
