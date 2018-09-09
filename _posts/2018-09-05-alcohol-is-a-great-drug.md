@@ -25,27 +25,27 @@ On the other, it's so good it can ruin your life. 
 Some of the 'lyrics' that have been on repeat in my head, particularly the bolded ones in the verse below:
 
 > You might say, “Why do people drink too much?” <br>
-> If you like alcohol, that’s a stupid question.
-> Why do people drink to much??
-> Well, cuz it’s great.
-> So why stop?
-> Well…
+> If you like alcohol, that’s a stupid question.<br>
+> Why do people drink to much??<br>
+> Well, cuz it’s great.<br>
+> So why stop?<br>
+> Well…<br>
 > 
-> **You do stupid things when you're drunk,**
-> **You hurt yourself,**
-> **You compromise you're health,**
-> **It's really hard on the people around you,**
-> **You tend to turn into a liar,**
-> **And it screws up your life.**
+> **You do stupid things when you're drunk,**<br>
+> **You hurt yourself,**<br>
+> **You compromise you're health,**<br>
+> **It's really hard on the people around you,**<br>
+> **You tend to turn into a liar,**<br>
+> **And it screws up your life.**<br>
 > 
-> It's like, yeah, but it's pretty fun.
-> Yeah, well it is it, but…
-> You need something better than that.
-> And what's better isn't being straight and not making mistakes.
-> That's all prohibition, in some sense.
-> What's better is…
+> It's like, yeah, but it's pretty fun.<br>
+> Yeah, well it is it, but…<br>
+> You need something better than that.<br>
+> And what's better isn't being straight and not making mistakes.<br>
+> That's all prohibition, in some sense.<br>
+> What's better is…<br>
 > 
-> No,
+> No,<br>
 > **You need an adventure, man.**
 
 It's refreshing to hear someone who used to drink like a fish when young, (coming from a Northern Alberta town), hasn't touched a drop in many years, admit how good it is, and stress the importance of having a good reason to stop. 
