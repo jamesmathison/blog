@@ -22,11 +22,17 @@ It's not been a magic-bullet transformation, but something potentially wonderful
 
 Time will tell. 
 
+&nbsp;
+
 ## Summary: Email Column This Week
 I've been figuring all this out this week with my email column subscribers.
 
 ### Tuesday: The Beginning, or Another Dead End?
-Have I truly turned a corner, or is this just *"…another desperate pulling back against the elastic band of my instincts, only to have it inevitably throw me back into old patterns."*
+Have I truly turned a corner, or is this just *"…another desperate pulling back against the elastic band of my instincts, only to have it inevitably throw me back into old patterns."* 
+
+[Read more](http://www.jamesmathison.co.uk/beginning-or-dead-end/)
+
+&nbsp;
 
 ### Wednesday: Some Truth About the Temptation of Alcohol
 I admitted to a recent battle I've had with alcohol. I broke down some of what's said in this fantastic lofi-mix of Jordan Peterson on why alcohol can be such a problem. 
@@ -37,15 +43,27 @@ I admitted to a recent battle I've had with alcohol. I broke down some of what's
 
 Biggest takeaway: Any addiction is the substitute for having a meaningful adventure. 
 
+[Read more](http://www.jamesmathison.co.uk/alcohol-is-a-great-drug/)
+
+&nbsp;
+
 ### Thursday: Dredging Up My Old Obsession: Nature, Commanded
 
 About a decade ago I became fascinated with [forms of farming that worked *with* Nature](https://youtu.be/4EUAMe2ixCI) instead of trying to have her conform to our will. There are some [mind-boggling achievements](https://youtu.be/vpTHi7O66pI) being made in this vein. The point was, my dream to help further these causes was halted, in part, because I didn't learn how to work with *my* Nature. 
+
+[Read on](http://www.jamesmathison.co.uk/old-obsession-nature-commanded/)
+
+&nbsp;
 
 ### Friday: Demons, Fairies, and Failure
 
 I summarised my journey through personal development and my apparent failure to do what was necessary. My demons were avoidance and sabotage, and the fairy I was chasing was self-improvement. After years of pointless struggle, I seemed utterly incapable of achieving even what was easily within my reach. 
 
 Finally, I gave up. 
+
+[Read on](http://www.jamesmathison.co.uk/demons-fairies-failure/)
+
+&nbsp;
 
 ### Saturday: Delicious Darkness: Understanding Your Shadow
 
@@ -57,6 +75,9 @@ Understanding the attraction of the Bad is a key step to becoming truly Good.
 
 And if you're committed to the Good, self-sabotage will have trouble finding a toe hold. 
 
+[Read on](http://www.jamesmathison.co.uk/delicious-darkness/)
+
+&nbsp;
 
 # Your Friendly Neighbourhood Narcissist
 This year I found myself in a desperate holding pattern. 
@@ -64,7 +85,7 @@ This year I found myself in a desperate holding pattern.
 I was wasting time drinking, smoking, and watching YouTube videos on my patio many evenings. My routine went to hell. I avoided responsibilities as much as I could, and I made little effort in almost any area of life. It wasn't depression, but at times it seemed to be heading in that direction. 
 
 <img src="../images/never-ending-story-gmork-the-nothing.gif">
-[image:8E7F736B-C8CE-4EE8-BFDD-36CD5D437493-16635-000085AA9BBD12EA/never-ending-story-gmork-the-nothing.gif]
+
 *I tried to resist, but hopelessness kept rising up to meet my enthusiasm and, before long, overcome it.* 
 
 Then, I came across an analysis of Sam Raimi's *Spiderman Trilogy*.
@@ -83,6 +104,8 @@ Below I've clipped three sections that hit me hardest. In an almost uncanny way,
 
 **Note: I thought myself very humble and even self-effacing. When I describe my grandiosity and narcissism, bear in mind it was mostly unconscious. Thus - if you exhibit similar behaviour, you may also be "secretly grandiose".**
 
+&nbsp;
+
 ## 1. The Righteous Break Up
 The "righteous break up" is followed by (or motivated by) identifying more deeply with your grandiose self-image. 
 
@@ -90,6 +113,8 @@ The "righteous break up" is followed by (or motivated by) identifying more deepl
 *(4:53 - 6:35)*
 
 I've broken up with more than one girl while I still loved her, justifying some sort of noble reason to avoid the truth – I was falling in love more with my grandiosity. 
+
+&nbsp;
 
 ## 2. The Grandiose Retreat
 Second, the "grandiose retreat" into isolation. 
@@ -106,6 +131,8 @@ You might say, *"How do you know this is true of you if it was unconscious? Woul
 The unconscious leaves clues. One clue I remember was being *over the top* reactive to specific types of compliments. My secretly big head was desperate to hear something that validated its self-image. 
 
 If you're ever surprised by your reaction to a compliment, make a note of that. It's a clue. 
+
+&nbsp;
 
 ## 3. Cycles of Excitement & Hopelessness
 A grandiose person, whether they are aware of their grandiosity or not, can react to it on two contrasting ways. One, manic activity. The other, depressed apathy. 
@@ -124,7 +151,6 @@ Then, one day, I broke the cycle.
 I lost hope and fell into the apathetic pole indefinitely. 
 
 <img src="../images/johnny-bravo-apathy.gif">
-[image:63FD987E-A6D0-4248-97BA-6FE5BC446308-16635-0000881077415C80/johnny-bravo-apathy.gif]
 
 &nbsp;
 
@@ -140,7 +166,6 @@ That seems strange, right. All throughout the decade (or more) of struggle, poor
 When I watched that essay on Raimi's Spiderman Trilogy, I was opened for the first time to the possibility that I am, in fact, narcissistic. 
 
 <img src="../images/spiderman-3-cheesy-walk-grandiosity-narcissism.gif">
-[image:890687C5-0395-463A-B346-B1D8007D31D2-16635-0000886B8189AC21/spiderman-3-cheesy-walk-grandiosity-narcissism.gif]
 
 Past behaviour of mine that seemed confusing now make perfect sense. 
 
@@ -157,6 +182,8 @@ Number 3 is huge. After accepting that I might not succeed after all, I found my
 No goal seemed worth the effort. 
 
 Now, thank God, that's starting to change. 
+
+&nbsp;
 
 **I started employing a few practical things:**
 
