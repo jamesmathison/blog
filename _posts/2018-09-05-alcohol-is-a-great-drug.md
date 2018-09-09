@@ -24,7 +24,7 @@ On the other, it's so good it can ruin your life. 
 
 Some of the 'lyrics' that have been on repeat in my head, particularly the bolded ones in the verse below:
 
-> You might say, “Why do people drink to much?”
+> You might say, “Why do people drink too much?” <br>
 > If you like alcohol, that’s a stupid question.
 > Why do people drink to much??
 > Well, cuz it’s great.
