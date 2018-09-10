@@ -18,6 +18,8 @@ However, something I'm only fully realising now, (with a certain amount of horro
 
 Every error makes you a weaker. 
 
+&nbsp;
+
 You shouldn't have shame over your mistakes, but the results of the mistakes are still the same. 
 
 You're not culpable, but you are still responsible for your mistakes. 
@@ -26,11 +28,13 @@ Even if you owe money to the bank through no fault of your own, you still owe th
 
 Does that make sense? 
 
+&nbsp;
+
 So the open question is this: what would you be like if you spoke your full being forward? 
 
-> "Because you're not everything you could be **and you know it**."
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/U-1DY0OVvew?start=1343&end=1395" frameborder="0"> </iframe>
+
+> "Because you're not everything you could be **and you know it**."
 
 &nbsp;
 
