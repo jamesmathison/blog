@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Be Your Own Psychiatrist"
+title: "How to Be Your Own Psychiatrist"
 summary: "How would you improve yourself if you were your own psychiatrist?"
 date: 2018-09-12
 categories: blog
