@@ -30,7 +30,7 @@ Each one of these skills is worth deep study, but for now, I want to share the s
 
 &nbsp;
 
-## How Train Yourself in Active Literacies 
+## How Train Yourself in Active Literacy 
 > **The Active Literacies** = The ability to speak effectively to any kind of group and the ability to write effectively to any kind of reader.
 
 Speaking and writing are distinct but overlapping. Once you can write well, you'll be more likely to speak well. 
