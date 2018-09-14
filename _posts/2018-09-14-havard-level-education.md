@@ -18,7 +18,7 @@ Here's John Taylor Gatto outlining some of those differences:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ql5m8YBiyWY?start=393" frameborder="0"> </iframe>
 
-Clipped at 6:33
+*(Clipped at 6:33)*
 
 **The four skills of leaders:**
 1. Active Literacies
@@ -26,16 +26,22 @@ Clipped at 6:33
 3. People Skills
 4. Self-Directed Learning
 
-Each one of these skills are worth deep study, but for now I want to share the simplest way I know to get started. 
+Each one of these skills is worth deep study, but for now, I want to share the simplest way I know to get started.
+
+&nbsp;
 
 ## How Train Yourself in Active Literacies 
-> The ability to speak effectively to any kind of group and the ability to write effectively to any kind of reader. 
+> **The Active Literacies** = The ability to speak effectively to any kind of group and the ability to write effectively to any kind of reader.
 
 Speaking and writing are distinct but overlapping. Once you can write well, you'll be more likely to speak well. 
+
+&nbsp;
 
 [Keeping *any* consistent daily practice is a beautiful thing](https://jamesaltucher.com/2016/02/the-simple-daily-practice-and-how-it-saved-my-life/). I would suggest one of the best ones to begin is to write 300 words a day. [Peter Shallard chose 500 words a day](https://www.copyblogger.com/get-ideas/), but according to Gatto:
 
 > "The secret to becoming a very, very powerful writer is simply to write 300 words a day."
+
+&nbsp;
 
 If you can do more, do more. 
 
@@ -49,9 +55,13 @@ Many magnificent writers came out of that practice. Harvard knew that *the skill
 
 And the best way to learn to write persuasively is to simply *practice*. 
 
+&nbsp;
+
 That's why **it's not enough to journal every day**. I keep a journal myself and have done for many years. However, there's something different about writing something for publishing. You keep it tighter, you think about the sequence of ideas, and you try to keep it interesting. 
 
-So, 300 words of brain-vomit is not going to do the trick. It needs to be 300 words of publishable content. 
+So, 300 words of brain-vomit won't do the trick. It needs to be 300 words of publishable content.
+
+&nbsp;
 
 ## Rise Up
 We don't need to have been born in elite circles to get a lot of the benefit of elite boarding schools. Our kids are in an even better position if we teach them **the 4 skills of leaders**. 
