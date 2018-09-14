@@ -16,7 +16,7 @@ What differentiates the education received in the 20-or-so elite boarding school
 
 Here's John Taylor Gatto outlining some of those differences:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/ql5m8YBiyWY?start=___&end=___" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ql5m8YBiyWY?start=393" frameborder="0"> </iframe>
 
 Clipped at 6:33
 
