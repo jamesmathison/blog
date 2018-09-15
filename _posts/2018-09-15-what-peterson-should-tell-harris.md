@@ -16,6 +16,8 @@ I say frustrating because Sam Harris flatly refuses to drop his straw-man of rel
 
 So I wanted to record two points I wish Jordan would make to Sam that I hope might hamper his relentless straw-manning. 
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/YfdaAGZvYsA" frameborder="0"> </iframe>
+
 &nbsp;
 
 ## 1. Many (perhaps most) Christians don't believe the Bible was literally dictated by God.
@@ -50,6 +52,5 @@ Jordan is trying to help people increase the sophistication of their conceptuali
 
 There's so much in this talk that I could do into. Perhaps I'll do a thorough response to it at some point. 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/YfdaAGZvYsA" frameborder="0"> </iframe>
 
 
