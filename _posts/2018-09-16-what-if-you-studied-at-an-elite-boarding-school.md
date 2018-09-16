@@ -20,7 +20,7 @@ Nope.
 
 Thanks to Kindle, I picked up all Dostoyevski's greatest novels for between £5 and £10. 
 
-Benjamin Franklin's autobiography, (which detailed how he gave himself a college level education while working full-time at the age of about 12) is only 99p for fuck's sake!!
+[Benjamin Franklin's autobiography](https://www.amazon.co.uk/dp/B01IVQY9S8/), (which detailed how he gave himself a college-level education *while working full-time at the age of about 12*) is only 49p for fuck's sake!!
 
 **2. While tutorship is helpful, personal authority over studies is CRITICAL.**
 
@@ -102,7 +102,7 @@ I'm tempted to go on.
 
 <img src="../images/star-wars-I-can-feel-your-anger.gif">
 
-I know it's not fair that you didn't happen to be in a school that followed these principles. To be honest, I have reason to believe that some of the original handful of elite facilities are starting to slip in recent years (for reasons I can't get into today). 
+I know it's not fair that you didn't happen to be in a school that followed these principles. To be honest, I suspect some of the original handful of elite schools and colleges are starting to slip in recent years (for reasons I can't get into today).
 
 Despite the fact that the best has been withheld from you, don't despair. 
 
@@ -112,7 +112,7 @@ And today, you are extremely lucky, because you've just been given the keys to t
 
 If you want to learn more about how to give yourself or your kids an elite education, keep learning from Gatto. 
 
-Then, get Benjamin Franklin's autobiography and read it with a notebook and pen in the other hand. 
+Then, get **[Benjamin Franklin's autobiography](https://www.amazon.co.uk/dp/B01IVQY9S8/)** and read it with a notebook and pen in the other hand. 
 
 <img src="../images/benjamin-franklin-sad-happy-100-dollar-bill.gif">
 
