@@ -99,7 +99,8 @@ I'm tempted to go on.
 &nbsp;
 
 ## Don't give in to your anger
-[image:91CFF275-A5D6-4360-B747-014CF3AC9240-799-00002291E121F3A4/star wars I can feel your anger.gif]
+
+<img src="../images/star-wars-I-can-feel-your-anger.gif">
 
 I know it's not fair that you didn't happen to be in a school that followed these principles. To be honest, I have reason to believe that some of the original handful of elite facilities are starting to slip in recent years (for reasons I can't get into today). 
 
@@ -112,7 +113,8 @@ And today, you are extremely lucky, because you've just been given the keys to t
 If you want to learn more about how to give yourself or your kids an elite education, keep learning from Gatto. 
 
 Then, get Benjamin Franklin's autobiography and read it with a notebook and pen in the other hand. 
-[image:9432796B-7D3E-4799-840F-96986BC932F0-799-000022ABA8B7992F/benjamin-franklin-sad-happy-100-dollar-bill.gif]
+
+<img src="../images/benjamin-franklin-sad-happy-100-dollar-bill.gif">
 
 &nbsp;
 
