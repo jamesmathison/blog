@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Would You Be if You Had Studied at an Elite Private Boarding School?"
+title: "What if You Had Studied at an Elite Private Boarding School?"
 description: ""
 date: 2018-09-16 
 categories: blog
