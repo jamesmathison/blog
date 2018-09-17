@@ -25,9 +25,13 @@ A few weeks ago, I was hit by a realisation that [I had within me a healthy vein
 
 > "I have to change right now, and I have to change BIG!"
 
+&nbsp;
+
 In other words, I believed I needed to (and was able to) utterly eliminate self-sabotage in **one mighty swoop!**
 
 (Plus, I didn't need nobody but me!)
+
+&nbsp;
 
 *Consciously* I would not have said this was true, but my actions bore out these attitudes and beliefs and your actions are a better test of your true beliefs than your words, right? 
 
@@ -41,15 +45,15 @@ It **hurts** to accept:
 * Backsliding *will* happen
 * I can't do it alone
 * Goals will need to be modest
-* I will never be the perfect superman I always fantasised about
+* I will never be the perfect superman I always fantasised being
 	* i.e. The destination will not be as I imagine
-* I will need to be stoic and industrious without promise of results
+* I will need to be stoic and industrious with no promise (or even expectation) of results
 
-* Lastly: The thing that *really* needs to be worked on is not my "awesomeness", but my *character*. 
+* Lastly: *The thing that really needs to be worked on is not my "awesomeness", but my **character**.* 
 
-The focus needs to be reasonable, humble, and often downright boring development of my character. 
+The focus needs to be reasonable, humble, and often downright boring development of my moral character. 
 
-My "fantasies" must burn away the backdrop of a sort of extra-human success or awesomeness, and grow in its place the image of a man who is responsible, stalwart, and *sensible*…(Ugh… really? Do I have to be?)…enough to be trusted with the care of a family, a community, a business, or more. 
+I must burn away the fantasy backdrop of a sort of extra-human success or awesomeness, and raise in its place the image of a man who is responsible, stalwart, and *sensible*…(Ugh! Really? Do I have to be?)…enough to be trusted with the care of a family, a community, a business, or more. 
 
 &nbsp;
 
@@ -57,5 +61,6 @@ You can't eliminate the devil that's holding you back.
 
 Accept his presence and work with him. 
 
-Then, maybe you'll see him morph before your eyes into an angel who's merely tasked with keeping your feet planted on firm ground. 
+Then, maybe you'll watch it become an angel who's merely tasked with keeping your feet on firm ground. 
 
+I hope so.
