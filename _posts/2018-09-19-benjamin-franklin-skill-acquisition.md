@@ -6,7 +6,7 @@ date: 2018-09-19
 categories: blog
 tags: 
 image: 
-  feature: "benjamin-franklin-northface-jacket.jpg"
+  feature: benjamin-franklin-northface-jacket.jpg
 permalink: /benjamin-franklin-skill-acquisition/
 comments: true
 
