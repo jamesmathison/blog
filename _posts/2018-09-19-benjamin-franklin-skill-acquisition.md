@@ -4,13 +4,13 @@ title: "Benjamin Franklin's 7 Steps of Hardcore Skill Acquisition"
 summary: 
 date: 2018-09-19
 categories: blog
-tags: 
-image: 
-  feature: benjamin-franklin-northface-jacket.jpg
+tags: column
 permalink: /benjamin-franklin-skill-acquisition/
 comments: true
 
 ---
+
+<img src="../images/benjamin-franklin-northface-jacket.jpg">
 
 I think I'm about to become a Benjamin Franklin fanboi. 
 
