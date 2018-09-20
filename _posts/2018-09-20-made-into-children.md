@@ -23,6 +23,7 @@ Government, is clearly a system of control right from the start. It's in its fun
 
 Perhaps there is space for a minimal government, I'm not a convinced, full-blown anarcho-capitalist, but governments clearly get more power-hungry and more *control*-hungry when they grow to any significant size or influence over our daily lives. 
 
+&nbsp;
 
 ## Corporations
 John Taylor Gatto focuses more on this side of the power equation. Companies turn into a similar beast to governments when reach a certain size. 
@@ -35,7 +36,7 @@ I think this will create a richer, more prosperous economy overall, but it will 
 
 &nbsp;
 
-## The Solution
+## The "Solution"
 A great way to keep power and resources disproportionately in the hands of the few is to keep us from growing up for as long as possible. 
 
 It's not a hard sell. It's *easier* being a child. You don't have as many responsibilities (think students), or better yet you have none (think welfare). You are protected by Mumma Government or Daddy Corporation. 
