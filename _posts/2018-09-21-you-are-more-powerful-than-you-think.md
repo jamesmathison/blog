@@ -5,7 +5,7 @@ summary:
 date: 2018-09-21
 categories: blog
 tags: column
-permalink: /you-are-more-powerful-than-you-think/
+slug: the-meaning-of-life
 comments: true
 
 ---
