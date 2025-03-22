@@ -25,7 +25,7 @@ github_username:  #username
 baseurl: /
 root: /
 url: http://jamesmathison.github.io
-permalink: /:slug/
+permalink: /:title/
 markdown: kramdown
 theme: minima
 gems:
