@@ -24,7 +24,7 @@ github_username:  #username
 # Build settings
 baseurl: /
 root: /
-url: https://jamesmathison.github.io
+url: http://jamesmathison.github.io
 permalink: /:title/
 markdown: kramdown
 theme: minima
