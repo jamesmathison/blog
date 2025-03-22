@@ -22,8 +22,6 @@ twitter_username: jsmathison
 github_username:  #username
 
 # Build settings
-baseurl: /blog
-url: https://jamesmathison.github.io
 permalink: /:title/
 markdown: kramdown
 theme: minima
